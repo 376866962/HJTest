@@ -16,7 +16,7 @@ public class HJ6 {
             }
             Iterator<Map.Entry<Integer, Integer>> iterator = map.entrySet().iterator();
 //            while (iterator.hasNext()){
-//                Map.Entry<Integer, Integer> entry = iterator.next();
+//                Map.Entry<Integer, Integer> entry = iterator.next(1);
 //                System.out.println(entry.getKey()+" "+entry.getValue());
 //            }
         }
